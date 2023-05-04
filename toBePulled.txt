@@ -1,3 +1,6 @@
 This is new info
+<<<<<<< HEAD
 new 
 main branch
+text for feature branch
+
