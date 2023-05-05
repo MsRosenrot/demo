@@ -1,11 +1,11 @@
 This is new info
-<<<<<<< HEAD
 text for feature branch
 new 
 main branch
-=======
 new 
 main branch
 This is main
->>>>>>> ae6cdc8 (from main)
+new 
+main branch
+
 
